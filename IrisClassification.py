@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data_path = 'Iris.csv'
+data_path = 'CodeAlpha_Iris-Flower-Classification/Iris.csv'
 df = pd.read_csv(data_path)
 
 # Display the first few rows
