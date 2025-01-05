@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data_path = 'C:/Users/Sudhansu Kumar Singh/Downloads/iris/Iris.csv'
+data_path = 'Iris.csv'
 df = pd.read_csv(data_path)
 
 # Display the first few rows
